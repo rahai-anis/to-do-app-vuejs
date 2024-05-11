@@ -101,3 +101,24 @@ button.remove:hover {
 span{
     color:white
 }
+/* footer section start */
+
+.copy-right-sec{
+    padding: 5px;
+    background: #82074a;
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    margin-top: 10px;
+    border-radius: 3px;
+    opacity: .7;
+}
+.copy-right-sec a{
+	color: #fcd462;
+    font-weight: 500;
+}
+a{
+  text-decoration:none;
+}
+
+/* footer section end */

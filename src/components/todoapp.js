@@ -3,8 +3,8 @@ export default {
     return {
       newTask: '',
       tasks: [
-        { id: 1, text: 'Learn Vue.js', done: false, count: 0 },
-        { id: 2, text: 'Build a to-do list app', done: true, count: 0 }
+        //{ id: 1, text: 'Learn Vue.js', done: false, count: 0 },
+        //{ id: 2, text: 'Build a to-do list app', done: true, count: 0 }
       ]
     };
   },
